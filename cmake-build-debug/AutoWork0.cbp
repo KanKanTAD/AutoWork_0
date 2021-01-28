@@ -25,6 +25,7 @@
 				<Option compiler="msvc8"/>
 				<Compiler>
 					<Add directory="D:/other_projects/AutoWork_0/./include"/>
+					<Add directory="D:/other_projects/AutoWork_0/./3rd"/>
 					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\ATLMFC\include"/>
 					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\include"/>
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
@@ -48,6 +49,7 @@
 				<Option compiler="msvc8"/>
 				<Compiler>
 					<Add directory="D:/other_projects/AutoWork_0/./include"/>
+					<Add directory="D:/other_projects/AutoWork_0/./3rd"/>
 					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\ATLMFC\include"/>
 					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\include"/>
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
