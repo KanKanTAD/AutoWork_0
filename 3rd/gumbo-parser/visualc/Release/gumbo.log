@@ -1,0 +1,12 @@
+﻿  attribute.c
+  char_ref.c
+  error.c
+  parser.c
+  string_buffer.c
+  string_piece.c
+  tag.c
+  tokenizer.c
+  utf8.c
+  util.c
+  vector.c
+  gumbo.vcxproj -> D:\other_projects\gumbo-parser\visualc\Release\gumbo.lib

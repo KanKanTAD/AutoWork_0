@@ -1,0 +1,14 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl-”(用“/GS-”)
+  attribute.c
+  char_ref.c
+  error.c
+  parser.c
+  string_buffer.c
+  string_piece.c
+  tag.c
+  tokenizer.c
+  utf8.c
+  util.c
+  vector.c
+  正在生成代码...
+  gumbo.vcxproj -> D:\other_projects\gumbo-parser\visualc\Debug\gumbo.lib
